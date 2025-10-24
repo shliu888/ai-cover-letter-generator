@@ -69,6 +69,3 @@ Execute the main application file:
 ```bash
 python [YOUR_MAIN_FILE_NAME].py
 ```
-  * **PDF/DOCX Upload:** Implement a file handler to accept document uploads instead of just text input.
-  * **Feedback Iteration Node:** Use LangGraph to create a loop where the generated feedback is immediately used to suggest revisions to the user's text.
-  * **Role-Specific Fine-Tuning:** Use few-shot examples to specialize the prompt for specific domains (e.g., Software Engineering, Marketing).
